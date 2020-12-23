@@ -13142,3 +13142,52 @@ a {
 .cid-sjZkStU8QH H6 {
   text-align: center;
 }
+.cid-sjZIoaD8Vt {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sjZIoaD8Vt img,
+.cid-sjZIoaD8Vt .item-img {
+  width: 100%;
+}
+.cid-sjZIoaD8Vt .item:focus,
+.cid-sjZIoaD8Vt span:focus {
+  outline: none;
+}
+.cid-sjZIoaD8Vt .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sjZIoaD8Vt .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.cid-sjZIoaD8Vt .item {
+  padding: 0;
+  margin: 0;
+}
+.cid-sjZIoaD8Vt .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sjZIoaD8Vt .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sjZIoaD8Vt .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sjZIoaD8Vt .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sjZIoaD8Vt .mbr-section-title {
+  color: #232323;
+}
