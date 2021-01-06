@@ -1516,7 +1516,7 @@ a {
   text-align: left;
 }
 .cid-slgbSAGfA2 .section-text DIV {
-  text-align: left;
+  text-align: center;
 }
 .cid-sjQllQ4Uru {
   padding-top: 6rem;
@@ -1613,7 +1613,7 @@ a {
   text-align: left;
 }
 .cid-slg9Aiqcb9 .section-text DIV {
-  text-align: left;
+  text-align: center;
 }
 .cid-sk1tsTFJRq {
   z-index: 1000;
@@ -2029,10 +2029,10 @@ a {
   padding: 2rem 0;
   letter-spacing: 0.03em;
   color: #000000;
-  text-align: left;
+  text-align: center;
 }
 .cid-skzBg3mhTD .section-text DIV {
-  text-align: left;
+  text-align: center;
 }
 .cid-sk1tsTFJRq {
   z-index: 1000;
@@ -11486,7 +11486,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-sjZj7TfMzH .item-wrapper {
+  height: 300px;
   position: relative;
+}
+.cid-sjZj7TfMzH .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-sjZj7TfMzH .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -11737,7 +11742,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-sjZjpHTJpX .item-wrapper {
+  height: 300px;
   position: relative;
+}
+.cid-sjZjpHTJpX .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-sjZjpHTJpX .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -11989,7 +11999,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-sjZjr9NLFz .item-wrapper {
+  height: 300px;
   position: relative;
+}
+.cid-sjZjr9NLFz .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-sjZjr9NLFz .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -12622,7 +12637,7 @@ a {
   text-align: left;
 }
 .cid-slg6XXqjvV .section-text DIV {
-  text-align: left;
+  text-align: center;
 }
 .cid-sjZkSsEsyT {
   padding-top: 6rem;
@@ -12633,7 +12648,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-sjZkSsEsyT .item-wrapper {
+  height: 300px;
   position: relative;
+}
+.cid-sjZkSsEsyT .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-sjZkSsEsyT .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -12884,7 +12904,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-sjZkStrP4p .item-wrapper {
+  height: 300px;
   position: relative;
+}
+.cid-sjZkStrP4p .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-sjZkStrP4p .item-wrapper .icon-wrapper {
   pointer-events: none;
