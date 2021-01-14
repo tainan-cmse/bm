@@ -1516,7 +1516,7 @@ a {
   text-align: left;
 }
 .cid-slgbSAGfA2 .section-text DIV {
-  text-align: center;
+  text-align: left;
 }
 .cid-sjQllQ4Uru {
   padding-top: 6rem;
@@ -1613,7 +1613,7 @@ a {
   text-align: left;
 }
 .cid-slg9Aiqcb9 .section-text DIV {
-  text-align: center;
+  text-align: left;
 }
 .cid-sk1tsTFJRq {
   z-index: 1000;
@@ -2032,7 +2032,7 @@ a {
   text-align: center;
 }
 .cid-skzBg3mhTD .section-text DIV {
-  text-align: center;
+  text-align: left;
 }
 .cid-sk1tsTFJRq {
   z-index: 1000;
@@ -2765,6 +2765,28 @@ a {
 .cid-slg2DLKDHy .mbr-section-title {
   color: #232323;
 }
+.cid-sm5d3l44wY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sm5d3l44wY .mbr-text {
+  color: #000000;
+}
+.cid-sm5d3l44wY .inner-container {
+  margin: 0;
+}
+.cid-sm5d3l44wY .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sm5d3l44wY .section-text {
+  padding: 2rem 0;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
 .cid-slg2ElpBAU {
   padding-top: 0px;
   padding-bottom: 60px;
@@ -2786,6 +2808,10 @@ a {
   padding: 2rem 0;
   letter-spacing: 0.03em;
   color: #000000;
+  text-align: left;
+}
+.cid-slg2ElpBAU .section-text DIV {
+  text-align: left;
 }
 .cid-sjTjz5Az12 {
   padding-top: 4rem;
@@ -12637,7 +12663,7 @@ a {
   text-align: left;
 }
 .cid-slg6XXqjvV .section-text DIV {
-  text-align: center;
+  text-align: left;
 }
 .cid-sjZkSsEsyT {
   padding-top: 6rem;
