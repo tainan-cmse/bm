@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tainaicmse - blossommansion",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -77,9 +77,10 @@
     "gdpr": false,
     "pwa-switcher": false,
     "uniqCompNum": 103,
-    "versionPublish": "5.2.2",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "chatbutton": {}
   },
   "pages": {
     "index.html": {
@@ -1997,7 +1998,7 @@
               "text-align": "left"
             }
           },
-          "_customHTML": "<section class=\"mbr-section article article3\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"20\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"inner-container col-md-8\">\n                <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n                    <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".section-text\" mbr-text><b>光・形 </b><b><br></b>Light・Shape<br>2018,油彩/畫布/複合媒材 \noil paint/mixed media/canvas,<br>直徑60cm 立體球型   |   60cm(diameter)<br><br><br><div><b><br></b></div><br><br><div><br></div><br><div><b>黃敏俊</b></div><div><b>HUANG MING-CHUN</b></div><div><br>1971 生於臺灣<div>復興商工繪畫組 畢業</div></div><br><div><div><br></div><div>「光」,是我創作生涯三十年以來主要研究的課題,在創作上逐漸發現過往的色彩理論,已無法滿足我對光影表現</div><div>的追求。印象派過於注重光影而忽略形體輪廓,以致光影與形體間產生「取捨」,而這成了我欲突破的課題。傳統</div><div>繪畫長久以來依循光、色分離的概念,兩者三原色並不一致。然而,既然光帶來色彩,光即是色彩,本出同源,最</div><div>終理應相符,為何兩者之三原色竟有所區別?在我以光的原理所出發的色彩理論中,藍色多為光衰減的結果,因此</div><div>我進一步調整,統一了光與色料三原色為全新的光色三原色(洋紅、黃、鮮綠),即所謂「光色合一」,並提出實</div><div>例及當代色彩理論予以佐證,縮小繪畫與現實之間的差距,使畫面更具傳統繪畫所無法達到的真實與立體感。</div><div><br></div><br><br><div><br></div></div></div>\n                <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article article3\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"20\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"inner-container col-md-8\">\n                <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n                    <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".section-text\" mbr-text><b>光・形 </b><b><br></b>Light・Shape<br>2018,油彩/畫布/複合媒材 \noil paint/mixed media/canvas,<br>直徑60cm 立體球型   |   60cm(diameter)<br><br><br><div><b><br></b></div><br><br><div><br></div><br><div><b>黃敏俊</b></div><div><b>HUANG MING-CHUN</b></div><div><br>1971 生於臺灣<div>復興商工繪畫組 畢業</div></div><br><div><div><br></div><div>「光」,是我創作生涯三十年以來主要研究的課題,在創作上逐漸發現過往的色彩理論,已無法滿足我對光影表現<span style=\"font-size: 0.8rem; letter-spacing: 0.03em;\">的追求。印象派過於注重光影而忽略形體輪廓,以致光影與形體間產生「取捨」,而這成了我欲突破的課題。傳統</span><span style=\"font-size: 0.8rem; letter-spacing: 0.03em;\">繪畫長久以來依循光、色分離的概念,兩者三原色並不一致。然而,既然光帶來色彩,光即是色彩,本出同源,最</span><span style=\"font-size: 0.8rem; letter-spacing: 0.03em;\">終理應相符,為何兩者之三原色竟有所區別?在我以光的原理所出發的色彩理論中,藍色多為光衰減的結果,因此</span><span style=\"font-size: 0.8rem; letter-spacing: 0.03em;\">我進一步調整,統一了光與色料三原色為全新的光色三原色(洋紅、黃、鮮綠),即所謂「光色合一」,並提出實</span><span style=\"font-size: 0.8rem; letter-spacing: 0.03em;\">例及當代色彩理論予以佐證,縮小繪畫與現實之間的差距,使畫面更具傳統繪畫所無法達到的真實與立體感。</span></div><div><br></div><br><br><div><br></div></div></div>\n                <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "article3-2n",
           "_isUserblock": true,
           "_cid": "skzBg3mhTD",
